@@ -91,7 +91,7 @@ return function(v11)
                         if v57 == (850 - (20 + 830)) then
                             v58 = v13.Players.LocalPlayer
                             if v58 then
-                                v58:Kick("This script is stolen, Join the orrginal: dsc.gg/abysallhubcontinued")
+                                
                             end
                             break
                         end
